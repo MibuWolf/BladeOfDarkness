@@ -1,0 +1,21 @@
+﻿KEY,English,中文
+Language,English,中文
+Flag,Usa,China
+Contry,USA,China
+Info,Return to the menu screen?,返回游戏开始界面?
+Play,Play,开始游戏
+Help,Help,游戏帮助
+Options,Options,游戏设置
+Exit,Exit,退出游戏
+QuitOne,Yes,是
+QuitTwo,No,否
+Back,Back,返回
+Close,Close,关闭
+Continue,Continue,继续游戏
+Voice,Voice,声音设置
+Menu,Menu,游戏菜单
+Sound,Sound,声音
+Music,Music,音乐
+Desc,You want to leave?,你想要离开?
+Paragraph,"World is an erosion of the power of darkness, the warrior of justice in order to save the world armed with the devil dungeons, unfolding battle of life and death and the devils...","世界被一股黑暗力量侵蚀,正义的勇士为了拯救世界,独闯恶魔地牢,与群魔展开生死决战..."
+ParagraphTwo,"Use the virtual joystick to control the character walking, looking for the key to open the gates, to find Boss and eventually destroy it...","使用虚拟摇杆控制人物行走,寻找钥匙打开铁门,去寻找Boss并最终消灭它..."
